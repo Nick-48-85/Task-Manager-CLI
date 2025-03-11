@@ -3,14 +3,26 @@
         "id": 1,
         "title": "test",
         "description": "test",
-        "completed": true,
-        "created_at": "2025-03-10 16:21:57"
+        "completed": false,
+        "created_at": "2025-03-11 11:14:16",
+        "due_date": "2025-01-01",
+        "priority": "low",
+        "tags": [
+            "test1",
+            "test2"
+        ]
     },
     {
         "id": 2,
-        "title": "test2",
-        "description": "test2",
-        "completed": true,
-        "created_at": "2025-03-10 16:56:44"
+        "title": "test1",
+        "description": "test1",
+        "completed": false,
+        "created_at": "2025-03-11 11:16:00",
+        "due_date": "2024-02-02",
+        "priority": "high",
+        "tags": [
+            "test3",
+            "test4"
+        ]
     }
 ]
